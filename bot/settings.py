@@ -122,4 +122,4 @@ USE_TZ = False
 
 STATIC_URL = '/static/'
 
-VIBER_AUTH_TOKEN = '4af102203b27d1b9-441692ca0a25f1dc-ccd28c4187fe5f5c'
+VIBER_AUTH_TOKEN = 'token'
